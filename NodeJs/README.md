@@ -39,6 +39,12 @@ This course includes various modules notes present in the course. These are help
 ---
 
 ## Getting started
+- Course outline
+- Starting with node
+- JS runtime enviroment
+- enviroment setup
+- node setup
+- Vs code setup
 
 ## JS refresher
 - JS constants, let, var
@@ -54,3 +60,23 @@ This course includes various modules notes present in the course. These are help
 - async code, setTimeOut, promises.
 - infinite promise resolution.
 - Temlate literals.
+
+
+## Node basics
+- Module introduction
+- How the web works
+- Creating a node server
+- The node lifecycle and event loop
+- Controlling the node procecss
+- Understanding requests
+- Sending responses
+- Request and response headers
+- Routing requests
+- Redirecting requests
+- Parsing request bodies
+- Understanding event driven code execution
+- Blocking and non-blocking code
+- Node.js - looking behind the scenes
+- Using the node module system
+- Assigment
+- Useful resources and links
