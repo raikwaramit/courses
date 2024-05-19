@@ -1,0 +1,2 @@
+# courses
+Course related notes
